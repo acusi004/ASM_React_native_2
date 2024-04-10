@@ -1,0 +1,784 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "trinhpkph31536@fpt.edu.vn",
+      "password": "nhokgl9x",
+      "username": "kieutrinh"
+    },
+    {
+      "id": "2",
+      "email": "phamkieutrinh300720044@gmail.com",
+      "password": "nhokgl9x30072004",
+      "username": "kieutrinh"
+    },
+    {
+      "id": "1708389137692.8672",
+      "username": "trinhhhh",
+      "email": "phamkieutrinh30072004@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "1708395755369.3923",
+      "username": "trinhhhhh",
+      "email": "kieutrinh300720004@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "1711114977698.9895",
+      "username": "123456",
+      "email": "123456@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 1711423961232.304,
+      "username": "nnn123",
+      "email": "nnn123@gmail.com",
+      "password": "nnn123"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "tenSP": "Chocolate Cappuccino",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cappuccino",
+      "linkAnh": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F19%2F2009%2F12%2F21%2Fchocolate-cappucino-ck-x.jpg&q=60",
+      "danhGia": 4.5,
+      "moTa": "Chocolate Cappuccino are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "2",
+      "tenSP": "Mocha Cappuccino",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cappuccino",
+      "linkAnh": "https://www.acouplecooks.com/wp-content/uploads/2021/12/Mocha-Cappuccino-004.jpg",
+      "danhGia": 4.6,
+      "moTa": "Mocha Cappuccino are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "3",
+      "tenSP": "Almond Milk Cappuccino",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cappuccino",
+      "linkAnh": "https://i0.wp.com/www.wifemamafoodie.com/wp-content/uploads/2015/01/almond-milk-cappuccino-2.jpg?fit=1365%2C2048&ssl=1",
+      "danhGia": 4.5,
+      "moTa": "Almond Milk Cappuccino are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "4",
+      "tenSP": "Cappuccino Punch",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cappuccino",
+      "linkAnh": "https://www.tasteofhome.com/wp-content/uploads/2018/01/Cappuccino-Punch_EXPS_HPBZ16_19462_D05_24_2b.jpg?fit=1024,1024",
+      "danhGia": 4.7,
+      "moTa": "Cappuccino Punch are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "5",
+      "tenSP": "Mapple Cappuccino",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cappuccino",
+      "linkAnh": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWKjIszsNahliuOQ2myvxZs7Pi7J2CB3gng&usqp=CAU",
+      "danhGia": 4.5,
+      "moTa": "Mapple Cappuccino are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "6",
+      "tenSP": "Cappuccino Cake",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cappuccino",
+      "linkAnh": "https://img.taste.com.au/prBFOpzV/taste/2016/11/cappuccino-cakes-28059-1.jpeg",
+      "danhGia": 4.8,
+      "moTa": "Cappuccino Cake are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "7",
+      "tenSP": "Cà phê Đen (Phin)",
+      "giaSP": [
+        {
+          "size": "250gm",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "500gm",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "1kg",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Coffee Beans",
+      "linkAnh": "https://qfoody.vn/wp-content/uploads/2022/04/cf-den-phin.jpg",
+      "danhGia": 4.5,
+      "moTa": "Cà phê Đen (Phin) are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "8",
+      "tenSP": "Cà phê Moka",
+      "giaSP": [
+        {
+          "size": "250gm",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "500gm",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "1kg",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Coffee Beans",
+      "linkAnh": "https://cdn.tgdd.vn/Files/2019/08/17/1188646/tim-hieu-11-loai-ca-phe-pho-bien-nhat-o-viet-nam-hien-nay-202008121541144416.jpg",
+      "danhGia": 4.7,
+      "moTa": "Cà phê Moka are by far the most popular type of coffee beans, making up about 60% of the world’s coffee. These tasty beans originated many centuries ago in the highlands of Ethiopia, and may even be the first coffee beans ever consumed! The name Arabica likely comes from the beans’ popularity in 7th-century Arabia (present-day Yemen)."
+    },
+    {
+      "id": "9",
+      "tenSP": "Cà phê Espresso",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Coffee Beans",
+      "linkAnh": "https://cdn.tgdd.vn/Files/2019/08/17/1188646/tim-hieu-11-loai-ca-phe-pho-bien-nhat-o-viet-nam-hien-nay-202008121541144416.jpg",
+      "danhGia": 4.8,
+      "moTa": "Native to central and western Africa – specifically Liberia, hence its name – Coffea liberica is prized for its piquant floral aroma and bold, smoky flavor profile. Growing from a much larger plant than Arabica or Robusta, most Liberica cherries tend to be irregular in shape and closer to Robusta in size and general appearance. It’s also tolerant of hot, humid climates and does well at low altitude."
+    },
+    {
+      "id": "10",
+      "tenSP": "Cà phê Cappuccino",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Americano",
+      "linkAnh": "https://cdn.tgdd.vn/Files/2019/08/17/1188646/tim-hieu-11-loai-ca-phe-pho-bien-nhat-o-viet-nam-hien-nay-202008121545409483.jpg",
+      "danhGia": 4.8,
+      "moTa": "Cà phê Cappuccino grow almost entirely in Southeast Asia, and they’re shaped somewhat like Liberica beans — elongated ovals. These beans grow on large 20 to 30-foot coffee plants at medium altitudes. In terms of flavor, Excelsa beans are pretty unique. They combine light roast traits like tart notes and fruity flavors with flavors that are more reminiscent of dark roasts."
+    },
+    {
+      "id": "11",
+      "tenSP": "Milk Late",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Americano",
+      "linkAnh": "https://gratefulgrazer.com/wp-content/uploads/2020/01/Spiced-Oat-Milk-Latte-6.jpg",
+      "danhGia": 4.9,
+      "moTa": "Milk Late are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "12",
+      "tenSP": "Caramel Latte",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Americano",
+      "linkAnh": "https://bakingmischief.com/wp-content/uploads/2019/10/easy-caramel-latte-image-square.jpg",
+      "danhGia": 4.9,
+      "moTa": "Caramel Latte are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "13",
+      "tenSP": "Ice Latte",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Americano",
+      "linkAnh": "https://www.forkinthekitchen.com/wp-content/uploads/2022/07/220629.iced_.latte_.vanilla-8882.jpg",
+      "danhGia": 4.7,
+      "moTa": "Ice Latte are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "14",
+      "tenSP": "Stabucks Latte",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Americano",
+      "linkAnh": "https://twochimpscoffee.com/wp-content/uploads/2022/11/untitled06.jpg",
+      "danhGia": 4.7,
+      "moTa": "Stabucks Latte are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "15",
+      "tenSP": "Chocolate Cake",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cake",
+      "linkAnh": "https://hips.hearstapps.com/hmg-prod/images/chocolate-cake-index-64b83bce2df26.jpg?crop=0.6668359143606668xw:1xh;center,top&resize=1200:*",
+      "danhGia": 4.9,
+      "moTa": "Chocolate Cake are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "16",
+      "tenSP": "Strawberry Cake",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cake",
+      "linkAnh": "https://www.allrecipes.com/thmb/Huh-I63aYc_zZ0NbLECEpFD0BcI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/60564-StrawberryCakeFromScratch-ddfms-4X3-0291-1-cd8254e28ea14112b5fc49e25cd08ff6.jpg",
+      "danhGia": 4.8,
+      "moTa": "Chocolate Cake are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "17",
+      "tenSP": "Red Velvet",
+      "giaSP": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ],
+      "loaiSP": "Cake",
+      "linkAnh": "https://cakesbymk.com/wp-content/uploads/2022/11/Template-Size-for-Blog-Photos-8-802x1024.jpg",
+      "danhGia": 4.9,
+      "moTa": "Chocolate Cake are larger and more rounded than the other bean varieties. These plants typically grow much larger than Arabica plants, measuring between 15 and 20 feet. Robusta beans are typically considered to be hardier because they can grow at lower altitudes and resist diseases. But recent research suggests that they don’t handle heat as well as was previously thought."
+    },
+    {
+      "id": "c1af",
+      "size": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ]
+    },
+    {
+      "id": "38f7",
+      "size": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ]
+    },
+    {
+      "id": "10d8",
+      "size": [
+        {
+          "size": "250gm",
+          "price": "5.50",
+          "currency": "$"
+        },
+        {
+          "size": "500gm",
+          "price": "10.50",
+          "currency": "$"
+        },
+        {
+          "size": "1kg",
+          "price": "18.50",
+          "currency": "$"
+        }
+      ]
+    },
+    {
+      "id": "d36d",
+      "size": [
+        {
+          "size": "S",
+          "price": "1.38",
+          "currency": "$"
+        },
+        {
+          "size": "M",
+          "price": "3.15",
+          "currency": "$"
+        },
+        {
+          "size": "L",
+          "price": "4.29",
+          "currency": "$"
+        }
+      ]
+    }
+  ],
+  "carts": [
+    {
+      "id": "9130",
+      "idSP": "15",
+      "data": {
+        "S": "0",
+        "250gm": "2"
+      }
+    },
+    {
+      "id": "3651",
+      "idSP": "12",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      }
+    }
+  ],
+  "orders": [
+    {
+      "id": "b2aa",
+      "idSP": "1",
+      "createAt": "1707897420571",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "f15a",
+      "idSP": "2",
+      "createAt": "1707897420575",
+      "data": {
+        "S": "2",
+        "250gm": "2"
+      },
+      "totalPrice": 2.76
+    },
+    {
+      "id": "a909",
+      "idSP": "11",
+      "createAt": "1707899718710",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "4563",
+      "idSP": "1",
+      "createAt": "1708178429766",
+      "data": {
+        "S": "29",
+        "250gm": "14"
+      },
+      "totalPrice": 40.01
+    },
+    {
+      "id": "e4a3",
+      "idSP": "2",
+      "createAt": "1708178556706",
+      "data": {
+        "S": "2",
+        "250gm": "2"
+      },
+      "totalPrice": 2.76
+    },
+    {
+      "id": "8080",
+      "idSP": "16",
+      "createAt": "1708178609412",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "f3b8",
+      "idSP": "7",
+      "createAt": "1708178632863",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 5.5
+    },
+    {
+      "id": "c576",
+      "idSP": "1",
+      "createAt": "1708179780215",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "a084",
+      "idSP": "11",
+      "createAt": "1708179921786",
+      "data": {
+        "S": "4",
+        "250gm": "4"
+      },
+      "totalPrice": 5.52
+    },
+    {
+      "id": "435c",
+      "idSP": "11",
+      "createAt": "1708260910810",
+      "data": {
+        "S": "2",
+        "250gm": "2"
+      },
+      "totalPrice": 2.76
+    },
+    {
+      "id": "a886",
+      "idSP": "10",
+      "createAt": "1708260910832",
+      "data": {
+        "S": "1",
+        "250gm": "2"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "7714",
+      "idSP": "3",
+      "createAt": "1708260910849",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "0251",
+      "idSP": "1",
+      "createAt": "1708260968653",
+      "data": {
+        "M": "1"
+      },
+      "totalPrice": 3.15
+    },
+    {
+      "id": "ba4f",
+      "idSP": "1",
+      "createAt": "1708395313808",
+      "data": {
+        "S": "2",
+        "250gm": "1"
+      },
+      "totalPrice": 2.76
+    },
+    {
+      "id": "fda2",
+      "idSP": "2",
+      "createAt": "1708395313854",
+      "data": {
+        "S": "0",
+        "250gm": "1",
+        "L": "2"
+      },
+      "totalPrice": 8.58
+    },
+    {
+      "id": "0c2d",
+      "idSP": "1",
+      "createAt": "1708395338639",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "bae4",
+      "idSP": "10",
+      "createAt": "1708395844886",
+      "data": {
+        "M": "1",
+        "L": "1"
+      },
+      "totalPrice": 7.44
+    },
+    {
+      "id": "6543",
+      "idSP": "1",
+      "createAt": "1708395844900",
+      "data": {
+        "S": "1",
+        "250gm": "1"
+      },
+      "totalPrice": 1.38
+    },
+    {
+      "id": "2ab6",
+      "idSP": "11",
+      "createAt": "1708395844921",
+      "data": {
+        "M": "1"
+      },
+      "totalPrice": 3.15
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1",
+      "email": "trinhpkph31536@fpt.edu.vn",
+      "name": "Kiều Trinh",
+      "phone": "0378820956",
+      "content": "Longo Coffee"
+    },
+    {
+      "id": "1707210878160.8057",
+      "email": "trinh30072004@gmail.com",
+      "name": "Kieu Trinh",
+      "phone": "0345895890",
+      "content": "Coffee shop"
+    },
+    {
+      "id": "1708395920502.0464",
+      "email": "phamkieutrinh300720044@gmail.com",
+      "name": "tnhhhhhhh",
+      "phone": "0378820956",
+      "content": "aaaaaaaaaaaaa"
+    }
+  ],
+  "favorites": [
+    {
+      "id": "11"
+    }
+  ]
+}
